@@ -114,9 +114,8 @@ DOWNCOUNTER:
 
 
 ### TRUTH TABLE 
-
-![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/57607863-cdd8-425d-88c9-a69999a8bc08)
-![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/c70a027c-054c-4206-9ab6-0a529a80c407)
+![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/6075c5fd-b2a7-4b65-a1b9-dc3119dba374)
+![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/9f8d95f0-87e1-47c9-9682-f5c5549971ce)
 
 
 
