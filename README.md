@@ -102,10 +102,9 @@ DOWNCOUNTER
 
 
 ### TIMI
-UPCOUNTER
-OUNTER
+UPCOUNTER:
 ![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/68d50583-199e-4344-b2ec-6821300774cc)
-DOWNCOUNTER
+DOWNCOUNTER:
 ![image](https://github.com/Pravin878/Exp-7-Synchornous-counters-/assets/118799555/fd93c020-b9bb-4e7f-a1a6-ab9b2b8bfb02)
 
 
